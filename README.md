@@ -2,9 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.8. and [Solid Angular Yeoman Generator](https://github.com/inrupt/generator-solid-angular)
 
-Solid POD URL: https://neutrality-api.solidcommunity.net
 
-Solid WebID: https://neutrality-api.solidcommunity.net/profile/card#me
 
 ## Generate Project 
 
