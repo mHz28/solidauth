@@ -8,7 +8,7 @@ Solid WebID: https://neutrality-api.solidcommunity.net/profile/card#me
 
 ## Generate Project 
 
-Run `yo @inrupt/solid-angular` \
+Run `yo @inrupt/solid-angular`
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. Wizard will prompt for answers.
